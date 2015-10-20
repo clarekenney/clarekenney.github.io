@@ -1,4 +1,4 @@
-# clarekenney.io.github
+# clarekenney.github.io
 website
 $ mkdir /path/to/source-code
 $ cd /path/to/source-code
