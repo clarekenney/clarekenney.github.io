@@ -45,7 +45,7 @@ p{
   zoom: 1;
 }
 #cssmenu ul:after {
-  content: "WEBSITE.html";
+  content: " ";
   display: block;
   font-size: 0;
   height: 0;
@@ -86,7 +86,7 @@ p{
   width: 100%;
 }
 #cssmenu ul li a:after {
-  content:"GWC.html";
+  content:" ";
   display: block;
   position: absolute;
   right: -3px;
@@ -97,7 +97,7 @@ p{
   opacity: .5;
 }
 #cssmenu ul li a:before {
-  content:"Resume.html";
+  content:" ";
   display: block;
   position: absolute;
   left: 0;
