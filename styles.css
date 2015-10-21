@@ -8,22 +8,22 @@ h1{
 h2{
   color: #0000A0;
   font-size:40px;
-  font-family: "Open Sans";
+  font-family: 'Open Sans', sans-serif;
 }
 h3{
   color: #0000A0;
-  font-family: "Open Sans";
+  font-family: 'Open Sans', sans-serif;
 }
 h4{
   color: #0000A0;
-  font-family: "Open Sans";
+  font-family: 'Open Sans', sans-serif;
 }
 
 p{
   color: #0000A0;
   padding-right:250px;
   text-align: "justify,right"
-  font-family: "Open Sans";
+  font-family: 'Open Sans', sans-serif;
 }
 
 .sibebar-image-gallery img { 
