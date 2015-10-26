@@ -27,7 +27,11 @@ h6{
   font-style: italic;
   size: 24px;
 }
-
+h7{
+  color: #0000A0;
+  font-size:60px;
+  font-family: 'Open Sans', sans-serif;
+}
 p{
   color: #0000A0;
   padding-right:250px;
