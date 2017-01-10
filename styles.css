@@ -1,4 +1,10 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:700);
+page-wrap{
+width: 960px;
+margin: 0 auto;
+}
+
+
 html { 
   background:"https://cloud.githubusercontent.com/assets/13753063/10622584/24887842-774e-11e5-98d9-11ec8120fc7a.jpg"  no-repeat center center fixed; 
   -webkit-background-size: cover;
