@@ -1,5 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:700);
-@import url(https://fonts.googleapis.com/css?family=Verdana);
+@import url(https://fonts.googleapis.com/css?family=Gill+Sans);
 #page-wrap{
 width: 960px;
 margin: 0 auto;
@@ -57,7 +57,7 @@ p{
   color: #0000A0;
   
   text-align: "justify,right"
-  font-family: 'Verdana', sans-serif;
+  font-family: 'Gill Sans', sans-serif;
 }
 
 
