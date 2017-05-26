@@ -32,48 +32,48 @@ h1{
 
 }
 h2{
-  color: #333333;
+  color: #595959;
   font-size:18px;
-  font-family: 'Candara', sans-serif;
+  font-family: 'Didact Gothic', sans-serif;
 }
 h3{
-  color: #333333;
+  color: #595959;
   text-align: "justify,right";
-  font-family: 'Arimo', sans-serif;
+  font-family: 'Didact Gothic', sans-serif;
   font-weight: 200;
 }
 h4{
-  color: #333333;
+  color: #595959;
   text-align: "justify,right";
   font-family: 'Didact Gothic', sans-serif;
   font-weight: 200;
 }
 h5{
-  color: #333333;
+  color: #595959;
   text-align: "justify,right";
   font-family: 'Didact Gothic', sans-serif;
 }
 h6{
-  color: #333333;
+  color: #595959;
   text-align: "justify,right";
   font-style: italic;
   font-size: 18px;
 }
 h7{
-  color: #333333;
+  color: #595959;
   text-align: "justify,right";
   font-family: 'Didact Gothic', sans-serif;
   font-size: 18px;
 }
 h8{
-  color: #333333;
+  color: #595959;
   text-align: "justify,right";
   font-family: 'Didact Gothic', sans-serif;
   font-size:18px;
 }
 
 p{
-  color: #333333;
+  color: #595959;
   
   text-align: "justify,right";
   font-family: 'Didact Gothic', sans-serif;
@@ -86,7 +86,7 @@ p{
 #girlswhocode{
   height: auto;
   width: 600px;
-  color: #333333;
+  color: #595959;
 }
 #cssmenu {
   background: #FFFFFF;
