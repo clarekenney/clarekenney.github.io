@@ -3,6 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Arimo|Titillium+Web);
 @import url(https://fonts.googleapis.com/css?family=Inconsolata);
 @import url(https://fonts.googleapis.com/css?family=Didact+Gothic);
+@import url(https://fonts.googleapis.com/css?family=Michroma);
 
 #page-wrap{
 width: 960px;
@@ -26,7 +27,7 @@ html {
 h1{
   color: #595959;
   font-size:40px;
-  font-family: 'Inconsolata', monospace;
+  font-family: 'Michroma', sans-serif;
   
 
 }
