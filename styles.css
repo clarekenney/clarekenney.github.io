@@ -10,6 +10,12 @@ width: 960px;
 margin: 0 auto;
 }
 
+#img{
+  padding-right:50px;
+}
+#paragraph{
+  padding-left:100px;
+}
 
 html { 
   background:"https://cloud.githubusercontent.com/assets/13753063/10622584/24887842-774e-11e5-98d9-11ec8120fc7a.jpg"  no-repeat center center fixed; 
