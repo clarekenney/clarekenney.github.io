@@ -13,6 +13,10 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+p.double{
+  border-style: double;
+
+}
 h1{
   color: #0000A0;
   font-size:40px;
