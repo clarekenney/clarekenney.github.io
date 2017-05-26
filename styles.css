@@ -65,7 +65,10 @@ p{
   text-align: "justify,right";
   font-family: 'Candara', sans-serif;
 }
-
+#aboutme{
+  height: auto;
+  width: 500px;
+}
 
 #cssmenu {
   background: #FFFFFF;
