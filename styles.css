@@ -3,7 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Arimo|Titillium+Web);
 @import url(https://fonts.googleapis.com/css?family=Inconsolata);
 @import url(https://fonts.googleapis.com/css?family=Didact+Gothic);
-@import url(https://fonts.googleapis.com/css?family=Cherry+Cream+Soda);
+@import url(https://fonts.googleapis.com/css?family=Comfortaa:300);
 
 #page-wrap{
 width: 960px;
@@ -27,7 +27,7 @@ html {
 h1{
   color: #595959;
   font-size:40px;
-  font-family: 'Cherry Cream Soda', cursive;
+  font-family: 'Comfortaa', cursive;
   
 
 }
