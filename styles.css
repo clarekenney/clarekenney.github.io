@@ -10,11 +10,9 @@ width: 960px;
 margin: 0 auto;
 }
 
-#img{
-  padding-right:50px;
-}
-#paragraph{
-  padding-left:100px;
+.testing img {
+   float: left;
+   padding: 0 20px 20px 0;
 }
 
 html { 
