@@ -26,18 +26,18 @@ h1{
 
 }
 h2{
-  color: #0000A0;
+  color: #333333;
   font-size:18px;
   font-family: 'Candara', sans-serif;
 }
 h3{
-  color: #0000A0;
+  color: #333333;
   text-align: "justify,right";
   font-family: 'Candara', sans-serif;
   font-weight: 200;
 }
 h4{
-  color: #0000A0;
+  color: #333333;
   text-align: "justify,right";
   font-family: 'Candara', sans-serif;
   font-weight: 200;
@@ -48,26 +48,26 @@ h5{
   font-family: 'Candara', sans-serif;
 }
 h6{
-  color: #0000A0;
+  color: #333333;
   text-align: "justify,right";
   font-style: italic;
   font-size: 18px;
 }
 h7{
-  color: #0000A0;
+  color: #333333;
   text-align: "justify,right";
   font-family: 'Candara', sans-serif;
   font-size: 18px;
 }
 h8{
-  color: #0000A0;
+  color: #333333;
   text-align: "justify,right";
   font-family: 'Candara', sans-serif;
   font-size:18px;
 }
 
 p{
-  color: #0000A0;
+  color: #333333;
   
   text-align: "justify,right";
   font-family: 'Candara', sans-serif;
