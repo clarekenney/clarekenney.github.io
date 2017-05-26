@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:700);
 @import url(https://fonts.googleapis.com/css?family=Candara);
-@import url('https://fonts.googleapis.com/css?family=Arimo');
+@import url(https://fonts.googleapis.com/css?family=Arimo|Titillium+Web);
 #page-wrap{
 width: 960px;
 margin: 0 auto;
@@ -23,7 +23,7 @@ html {
 h1{
   color: #595959;
   font-size:40px;
-  font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+  font-family: 'Titillium Web', sans-serif;
   
 
 }
