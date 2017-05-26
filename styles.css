@@ -4,7 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Inconsolata);
 @import url(https://fonts.googleapis.com/css?family=Didact+Gothic);
 @import url(https://fonts.googleapis.com/css?family=Michroma);
-
+@import url(https://fonts.googleapis.com/css?family=Cherry+Cream+Soda);
 #page-wrap{
 width: 960px;
 margin: 0 auto;
@@ -27,7 +27,7 @@ html {
 h1{
   color: #595959;
   font-size:40px;
-  font-family: 'Michroma', sans-serif;
+  font-family: 'Cherry Cream Soda', cursive;
   
 
 }
