@@ -128,7 +128,7 @@ p{
   transition: color .25s;
 }
 #cssmenu ul li a:hover {
-  color: #0000A0;
+  color: #99a7b2;
 }
 #cssmenu ul li a:hover:before {
   width: 100%;
@@ -141,7 +141,7 @@ p{
   top: 19px;
   height: 6px;
   width: 6px;
-  background: #0000A0;
+  background: #99a7b2;
   opacity: .5;
 }
 #cssmenu ul li a:before {
@@ -152,7 +152,7 @@ p{
   bottom: 0;
   height: 3px;
   width: 0;
-  background: #0000A0;
+  background: #99a7b2;
   -webkit-transition: width .25s;
   -moz-transition: width .25s;
   -ms-transition: width .25s;
@@ -164,7 +164,7 @@ p{
   display: none;
 }
 #cssmenu ul li.active a {
-  color: #0000A0;
+  color: #99a7b2;
 }
 #cssmenu ul li.active a:before {
   width: 100%;
