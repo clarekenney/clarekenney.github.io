@@ -13,7 +13,7 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
-p.double{
+#page-wrap{
   border-style: double;
  
 
