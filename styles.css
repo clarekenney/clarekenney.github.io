@@ -14,6 +14,9 @@ margin: 0 auto;
    float: left;
    
 }
+.testing p{
+   float:right;
+}
 
 html { 
   background:"https://cloud.githubusercontent.com/assets/13753063/10622584/24887842-774e-11e5-98d9-11ec8120fc7a.jpg"  no-repeat center center fixed; 
