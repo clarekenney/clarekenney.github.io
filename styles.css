@@ -14,7 +14,9 @@ margin: 0 auto;
    float: left;
    
 }
-
+.testing h10{
+   float: right;
+}
 
 #paragraph{
    float:left;
