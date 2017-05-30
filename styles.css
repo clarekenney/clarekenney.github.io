@@ -125,7 +125,7 @@ h12{
 }
 #resumelist ul li a{
   color: #59595959;
-  list-style: none;
+  list-style-type: none;
   text-decoration: none;
   display: block;
   padding: 15px 25px;
@@ -138,10 +138,12 @@ h12{
 }
 
 #resumelist ul li a:before{
-   background: #595959;   
+   background: #595959; 
+   list-style-type: none;
 }
 #resumelist ul li a:after{
-   background: #595959;   
+   background: #595959;
+   list-style-type: none;
 }
 
 #cssmenu {
