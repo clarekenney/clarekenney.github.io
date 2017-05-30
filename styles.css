@@ -123,11 +123,17 @@ h12{
   width: 600px;
   color: #595959;
 }
-#resumelist a{
-  color: #595959;
-  text-align: "justify,right";
+#resumelist ul li a{
+  color: #59595959;
+  text-decoration: none;
+  display: block;
+  padding: 15px 25px;
   font-family: 'Didact Gothic', sans-serif;
-  font-size:18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 14px;
+  position: relative;
+  
 }
 #cssmenu {
   background: #FFFFFF;
