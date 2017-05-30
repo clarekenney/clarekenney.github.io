@@ -101,6 +101,18 @@ p{
   text-align: "justify,right";
   font-family: 'Didact Gothic', sans-serif;
 }
+h11{
+  color: #595959;
+  text-align: "justify,right";
+  font-family: 'Didact Gothic', sans-serif;
+  font-size:20px;
+}
+h12{
+  color: #595959;
+  font-size:18px;
+  font-family: 'Didact Gothic', sans-serif;
+}
+
 #aboutme{
   height: auto;
   width: 600px;
@@ -110,6 +122,12 @@ p{
   height: auto;
   width: 600px;
   color: #595959;
+}
+#resumelist{
+  color: #595959;
+  text-align: "justify,right";
+  font-family: 'Didact Gothic', sans-serif;
+  font-size:18px;
 }
 #cssmenu {
   background: #FFFFFF;
