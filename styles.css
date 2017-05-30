@@ -123,6 +123,8 @@ h12{
   width: 600px;
   color: #595959;
 }
+
+
 #resumelist{
   color: #59595959;
   list-style-type: none;
@@ -130,8 +132,6 @@ h12{
   font-weight: 700;
   text-transform: uppercase;
   font-size: 14px;
-  
-  
 }
 #resumelist ul li a{
   color: #59595959;
@@ -143,8 +143,7 @@ h12{
   font-weight: 700;
   text-transform: uppercase;
   font-size: 14px;
-  position: relative;
-  
+  position: relative;  
 }
 #resumelist ul {
   list-style: none;
@@ -163,10 +162,22 @@ h12{
    list-style-type: none;
 }
 
+#resumelist ul li.active a {
+  color: #595959;
+}
+#resumelist ul li a:hover {
+  color: #99a7b2;
+}
+#resumelist ul li a:hover:before {
+  width: 100%;
+}
+
+
 #cssmenu {
   background: #FFFFFF;
   width: auto;
 }
+
 #cssmenu ul {
   list-style: none;
   margin: 0;
