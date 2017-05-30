@@ -135,6 +135,14 @@ h12{
   position: relative;
   
 }
+
+#resumelist ul li a:before{
+   background: #595959;   
+}
+#resumelist ul li a:after{
+   background: #595959;   
+}
+
 #cssmenu {
   background: #FFFFFF;
   width: auto;
