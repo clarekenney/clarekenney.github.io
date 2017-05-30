@@ -10,11 +10,7 @@ width: 960px;
 margin: 0px;
 }
 
-#resume{
-   width: 600px;
-   margin: 0px;
-   
-}
+
 .testing img {
    float: left;
    
@@ -124,26 +120,30 @@ h12{
   width: 600px;
   color: #595959;
 }
+#resume{
+   width: 600px;
+   margin: 0px;  
+}
 
 
 #resumelist{
-  color: #59595959;
+  color: #595959;
   list-style-type: none;
   font-family: 'Didact Gothic', sans-serif;
   font-weight: 700;
-  
-  font-size: 14px;
+  font-size: 16px;
+  width: 600px;
 }
 #resumelist ul li a{
-  color: #59595959;
+  color: #595959;
   list-style-type: none;
   text-decoration: none;
   display: block;
-  padding: 15px 25px;
+  
   font-family: 'Didact Gothic', sans-serif;
   font-weight: 700;
  
-  font-size: 14px;
+  font-size: 16px;
   position: relative;  
 }
 #resumelist ul {
