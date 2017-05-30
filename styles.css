@@ -125,6 +125,7 @@ h12{
 }
 #resumelist ul li a{
   color: #59595959;
+  list-style: none;
   text-decoration: none;
   display: block;
   padding: 15px 25px;
