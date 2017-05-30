@@ -123,7 +123,7 @@ h12{
   width: 600px;
   color: #595959;
 }
-#resumelist{
+#resumelist a{
   color: #595959;
   text-align: "justify,right";
   font-family: 'Didact Gothic', sans-serif;
