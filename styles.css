@@ -130,7 +130,7 @@ h12{
   list-style-type: none;
   font-family: 'Didact Gothic', sans-serif;
   font-weight: 700;
-  text-transform: uppercase;
+  
   font-size: 14px;
 }
 #resumelist ul li a{
@@ -141,7 +141,7 @@ h12{
   padding: 15px 25px;
   font-family: 'Didact Gothic', sans-serif;
   font-weight: 700;
-  text-transform: uppercase;
+ 
   font-size: 14px;
   position: relative;  
 }
