@@ -145,6 +145,10 @@ h12{
    background: #595959;
    list-style-type: none;
 }
+#resumelist ul li a:visited{
+   background: #595959;
+   list-style-type: none;
+}
 
 #cssmenu {
   background: #FFFFFF;
