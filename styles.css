@@ -146,10 +146,13 @@ h12{
     margin: 0;
     padding: 0;
     width: 600px;
+    background-color: #ffffff;
+    
 }
 
 #resumelist li {
     display: inline;
+    background-color: #ffffff;
 }
 #resumelist{
   color: #595959;
@@ -158,6 +161,7 @@ h12{
   font-weight: 700;
   font-size: 16px;
   width: 600px;
+  background-color: #ffffff;
 }
 #resumelist ul li a{
   color: #595959;
@@ -166,7 +170,8 @@ h12{
   font-family: 'Didact Gothic', sans-serif;
   font-weight: 700;
   font-size: 16px;
-  position: center;  
+  position: center;
+  background-color: #ffffff;
 }
 
 #resumelist ul li a:before{
