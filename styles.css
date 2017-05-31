@@ -146,8 +146,7 @@ h12{
     margin: 0;
     padding: 15px 25px;
     width: 600px;
-    border: double;
-   
+    border: solid;
     background-color: #ffffff;
     
 }
