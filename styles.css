@@ -155,7 +155,6 @@ h12{
     background-color: #ffffff;
 }
 #resumelist{
-  color: #595959;
   list-style-type: none;
   font-family: 'Didact Gothic', sans-serif;
   font-weight: 700;
@@ -178,11 +177,9 @@ h12{
    list-style-type: none;
 }
 #resumelist ul li a:after{
-   background: #595959;
    list-style-type: none;
 }
 #resumelist ul li a:visited{
-   background: #595959;
    list-style-type: none;
 }
 
