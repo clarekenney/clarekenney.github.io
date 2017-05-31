@@ -134,7 +134,7 @@ h12{
     color: white; /* Text color */
     cursor: pointer; /* Add a mouse pointer on hover */
     padding: 15px; /* Some padding */
-    border-radius: 30px; /* Rounded corners */
+    border-radius: 40px; /* Rounded corners */
 }
 
 #myBtn:hover {
