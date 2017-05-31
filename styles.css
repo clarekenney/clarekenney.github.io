@@ -165,9 +165,7 @@ h12{
 #resumelist ul {
   list-style: none;
 }
-#resumelist li{
-   display: inline;
-}
+
 
 #resumelist ul li a:before{
    background: #595959; 
