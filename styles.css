@@ -144,9 +144,8 @@ h12{
 #resumelist ul {
     list-style-type: none;
     margin: 0;
-    padding: 15px 25px;
+    padding: 0;
     width: 600px;
-    border: solid;
     background-color: #ffffff;
     
 }
@@ -165,7 +164,7 @@ h12{
   background-color: #ffffff;
 }
 #resumelist ul li a{
-  color: #595959;
+  
   list-style-type: none;
   text-decoration: none;
   font-family: 'Didact Gothic', sans-serif;
