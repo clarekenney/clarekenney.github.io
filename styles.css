@@ -170,7 +170,6 @@ h12{
 }
 
 #resumelist ul li a:before{
-   background: #595959; 
    list-style-type: none;
 }
 #resumelist ul li a:after{
