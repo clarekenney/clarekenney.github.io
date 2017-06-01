@@ -48,6 +48,15 @@ margin: auto;
   color: white;
 }
 
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
 html { 
   background:"https://cloud.githubusercontent.com/assets/13753063/10622584/24887842-774e-11e5-98d9-11ec8120fc7a.jpg"  no-repeat center center fixed; 
   -webkit-background-size: cover;
