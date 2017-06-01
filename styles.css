@@ -24,6 +24,30 @@ margin: auto;
    float:left;
 }
 
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
 html { 
   background:"https://cloud.githubusercontent.com/assets/13753063/10622584/24887842-774e-11e5-98d9-11ec8120fc7a.jpg"  no-repeat center center fixed; 
   -webkit-background-size: cover;
