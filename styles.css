@@ -67,6 +67,7 @@ html {
 #page-wrap{
  padding-top: 20px;
  border-style: double;
+ border-width: 5px;
  color: #c5cdd3;
 }
 h1{
