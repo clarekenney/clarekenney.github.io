@@ -4,6 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Inconsolata);
 @import url(https://fonts.googleapis.com/css?family=Didact+Gothic);
 @import url(https://fonts.googleapis.com/css?family=Comfortaa:300);
+@import url('https://fonts.googleapis.com/css?family=Galdeano');
 
 #page-wrap{
 width: 960px;
@@ -73,7 +74,8 @@ html {
 h1{
   color: #595959;
   font-size:40px;
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Galdeano', sans-serif;
+  
   font-weight: 5pt;
   
 
